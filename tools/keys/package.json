@@ -19,7 +19,7 @@
   "author": "Sandwich",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "~1.7.8",
+    "electron": "~33.2.1",
     "electron-builder": "^20.10.0"
   },
   "dependencies": {
